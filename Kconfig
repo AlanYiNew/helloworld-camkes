@@ -1,0 +1,7 @@
+# apps/helloworld/Kconfig
+
+config APP_HELLOWORLD
+bool "Hello world CAmkES application"
+default n
+    help
+        Hello world tutorial exercise.
